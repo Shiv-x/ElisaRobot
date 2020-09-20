@@ -32,7 +32,7 @@ You can join Fed or Subscribe to remove Rippers from your Groups [here](t.me/Ant
 
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-haruka_IMG = "https://telegra.ph/file/83572306e26b055349097.jpg"
+HARUKA_IMG = "https://telegra.ph/file/83572306e26b055349097.jpg"
 
 
 IMPORTED = {}
