@@ -37,6 +37,7 @@ class Config(object):
     STRICT_GMUTE = False
     ALLOW_EXCL = True  # Allow ! commands as well as /
     API_OPENWEATHER = None # OpenWeather API
+    LASTFM_API_KEY = None # LastFm Api key
 
     # MEMES
     DEEPFRY_TOKEN = None
