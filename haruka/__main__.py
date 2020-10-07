@@ -149,7 +149,7 @@ def send_start(bot, update):
     first_name = update.effective_user.first_name 
     text = PM_START
 
-    keyboard = [[InlineKeyboardButton(text="✔️ Add Elisa to your group", url="t.me/{}?startgroup=true".format(context.bot.username)]]
+    keyboard = [[InlineKeyboardButton(text="✔️ Add Elisa to your group", url="t.me/{}?startgroup=true".format(context.bot.username)]],
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), InlineKeyboardButton(text="🇮🇳 Language", callback_data="set_lang_")], 
                  [InlineKeyboardButton(text="❓ Help", callback_data="help_back"), InlineKeyboardButton(text="Source Code", url="https://github.com/QueenArzoo/ElisaRobot.git")]]
 
