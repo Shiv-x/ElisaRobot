@@ -5,7 +5,7 @@
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [GroupManager](https://t.me/ShizukaSupport).
+Can be found on telegram as [GroupManager](https://t.me/elisaRobot).
 
 Alternatively, [find me on telegram](https://t.me/ElisaRobot)! (Keep all support questions in the support chat, where more people can help you.)
 
