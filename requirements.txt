@@ -20,7 +20,7 @@ PyLyrics
 hurry.filesize
 #translator
 googletrans
-
+Pafy
 tldextract
 PyYAML
 pyowm
@@ -28,3 +28,4 @@ wikipedia
 bleach
 markdown2
 tswift
+PickleDB
