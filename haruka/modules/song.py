@@ -2,7 +2,7 @@ from telegram import ParseMode, Update, Bot
 from telegram.ext import run_async
 from haruka.modules.disable import DisableAbleCommandHandler
 from haruka import dispatcher
-from haruka.dll import dl, db
+from haruka.modules.dll import dl, db
 import os
 
 @run_async
