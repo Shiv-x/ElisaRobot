@@ -10,4 +10,4 @@ Can be found on telegram as [ElisaRobot](https://t.me/elisaRobot).
 Keep all support questions in the support chat, where more people can help you. You can also join our support group [here!](https://t.me/ShizukaSupport)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/GarimaQueen)
+Report your problem along with your name to [this person](https://t.me/HEROGAMERS1)
